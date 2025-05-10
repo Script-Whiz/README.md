@@ -46,7 +46,7 @@ Looks at images, and predicts age of customers, to help Good Seed Company adhere
 - **Logistic Regression**:
 
 #####  Link to open project:
-  - [Sprint15_CNN_agePrediction](https://github.com/Script-Whiz/Sprint15_CNN_agePrediction/blob/d9a305eb2b8b57f4a291af0187024f25ea013340/notebooks/Sprint15_CNN_agePrediction_ver2_final.ipynb)
+  - [Sprint15_CNN_agePrediction](https://github.com/Script-Whiz/Sprint15_CNN_agePrediction/blob/main/notebooks/Sprint15_CNN_agePrediction_ver2_final.ipynb)
 
 ## Sprint14_Chapter2_Vectorization
 Train a model to learn  whether or not a review is positive, or negative, for the Film Junky Reviews Company. Model F1 score must be better than 0.85.
@@ -71,7 +71,7 @@ Train a model to learn  whether or not a review is positive, or negative, for th
 - **Transformer Models**: For advanced NLP tasks (via the transformers library)
 
 ##### Link to open project:
-  - [Sprint14_Chapter2_Vectorization](https://github.com/Script-Whiz/Sprint14_Chapter2_TextVectorization/blob/29f3afd8bd4001be2add2f2b11232011e5adbdb3/notebooks/Sprint14_Chapter2_TextVectorization_ver4_final.ipynb)
+  - [Sprint14_Chapter2_Vectorization](https://github.com/Script-Whiz/Sprint14_Chapter2_TextVectorization/blob/main/notebooks/Sprint14_Chapter2_TextVectorization_ver4_final.ipynb)
 
 ## Sprint13_SweetTaxi_timeSeries
 A time series project that predicts how many customers the Sweet Taxi Company will have during the next hour.
@@ -143,7 +143,7 @@ This project answers 4 questions:
 - **Nearest Neighbors**: For unsupervised learning tasks like density estimation and anomaly detection.
 
 ##### Link to open project:
-  - [Sprint11_Ins_US_matrix](https://github.com/Script-Whiz/Sprint11_Ins_US_matrix/blob/36aa96674fe6235fff387811f8fabedb3fb9cc4f/notebooks/Sprint11_LinearAlg_ver2_final.ipynb)
+  - [Sprint11_Ins_US_matrix](https://github.com/Script-Whiz/Sprint11_Ins_US_matrix/blob/main/notebooks/Sprint11_LinearAlg_ver2_final.ipynb)
 
 ## Sprint10_Gold_Recovery
 Studies the gold purification process. Uses predictive models are built to predict gold levels for the final purification stage.
@@ -238,7 +238,7 @@ Analysis of historic video game sales, from 1980-2016, from the (fictitional) on
 - **Random**: For generating random numbers and selections
  
 ##### Link to open project:
-  - [Sprint5_VideoGames_imputation](https://github.com/Script-Whiz/Sprint5_VideoGames_imputation/blob/fc14a3bba74cba808437ce1500ad9e377182d6b4/notebook/games_ver_18_final.ipynb)
+  - [Sprint5_VideoGames_imputation](https://github.com/Script-Whiz/Sprint5_VideoGames_imputation/blob/main/notebook/games_ver_18_final.ipynb)
 
 
 ## Sprint4_Auto_Comparison
@@ -255,7 +255,7 @@ Comparison of auto sales from 1908-2019, using EDA and data visualization, looki
 - **Random**: For generating random numbers and selections
 
 ##### Link to open project:
-  - [Sprint4_Auto_Comparison](https://github.com/Script-Whiz/Sprint4_Auto_Comparison/blob/b06dd84fc9e3174ab038488f44378126705ccf79/notebooks/Sprint4_Auto_Comparison_ver2_final.ipynb)
+  - [Sprint4_Auto_Comparison](https://github.com/Script-Whiz/Sprint4_Auto_Comparison/blob/main/notebooks/Sprint4_Auto_Comparison_ver2_final.ipynb)
 
 ## Sprint3_Megaline_Phone_revenue
 Data cleaning and EDA to analyze customers habits for Megaline phone company, and find which phone plan brings in more revenue..
@@ -270,7 +270,7 @@ Data cleaning and EDA to analyze customers habits for Megaline phone company, an
 - **SciPy Stats**: For statistical functions and distributions
 
 ##### Link to open project:
-  - [Sprint3_Megaline_Phone_revenue(https://github.com/Script-Whiz/Sprint3_MegalinePhone_revenue/blob/54b720c224ce131da31b00bb94becff36fa52396/notebooks/.ipynb_checkpoints/Megaline_final_ver2_final.ipynb)
+  - [Sprint3_Megaline_Phone_revenue(https://github.com/Script-Whiz/Sprint3_MegalinePhone_revenue/blob/main/notebooks/Megaline_final_ver2_final.ipynb)
 
 ## Sprint2_Instacart_EDA
 Use EDA to analyze Instacart ordering habits. Find what are the top 20 items ordered most frequently?
@@ -280,7 +280,7 @@ Use EDA to analyze Instacart ordering habits. Find what are the top 20 items ord
 - **IPython.display**: For displaying HTML and other representations in Jupyter notebooks
 
 ##### Link to open project:
-  - [Sprint2_Instacart_EDA](https://github.com/Script-Whiz/Sprint2_Instacart_EDA/blob/cb8e157544942a87fd65db77dbaaff7fb2be2709/notebooks/Sprint2_Instacart_EDA_ver3_final.ipynb)
+  - [Sprint2_Instacart_EDA](https://github.com/Script-Whiz/Sprint2_Instacart_EDA/blob/main/notebooks/Sprint2_Instacart_EDA_ver3_final.ipynb)
 
 ## Sprint1_DataCleaning
 Data cleaning, and basic EDA, on the Golden Age of movies,  to discover how the number of votes a movie receives affects its ratings.
@@ -288,5 +288,5 @@ Data cleaning, and basic EDA, on the Golden Age of movies,  to discover how the 
 - **Pandas**: For data manipulation and analysis
 
 ##### Link to open project:
-  - [Sprint1_DataCleaning](https://github.com/Script-Whiz/Sprint1_DataCleaning/blob/4c0782a1f41bf976e489159b3de7dfb3049ffd6c/notebooks/Sprint1_DataCleaning_ver3_final.ipynb)
+  - [Sprint1_DataCleaning](https://github.com/Script-Whiz/Sprint1_DataCleaning/blob/main/notebooks/Sprint1_DataCleaning_ver3_final.ipynb)
 
